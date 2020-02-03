@@ -2,6 +2,7 @@
 layout: post
 title: How Learning Latin Made me a Better Programmer
 tagline: Or, How I learned to think about learning
+categories: Learning
 ---
 
 Anyone who knows me understands that Latin is the center of my life — I’m not like Giles, who only delves into the ancient tomes when Buffy needs something — it’s become the primary language of my personal and social life. For the first part of my career, it was also my job. Now, however, I teach at the [Flatiron School](https://flatironschool.com/), where we use Ruby and JavaScript to prepare students to become web developers. As a result of this switch, I’ve ended up with a professional network polarized between “computer people” and “language people,” which has me thinking about the relationship between these two kinds of disciplines and how I came to be able to program through my ostensively unrelated background.
